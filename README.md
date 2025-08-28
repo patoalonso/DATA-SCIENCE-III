@@ -51,5 +51,5 @@ Construir un clasificador binario que prediga **sentimiento**:
 
 ---
 
-## 🗂️ Estructura sugerida del repo
+
 
